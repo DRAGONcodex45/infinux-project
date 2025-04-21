@@ -215,13 +215,14 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
+        margin: 0 auto;
         gap: 1rem;
     }
 
     .ai-about-btn {
         font-family: 'Poppins', sans-serif;
-        height: 45px;
-        width: 210px;
+        height: 40px;
+        width: 160px;
         font-size: 0.8rem;
         border: 2px solid #ffffff;
         border-radius: 4rem;
